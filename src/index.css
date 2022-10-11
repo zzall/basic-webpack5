@@ -1,0 +1,14 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+  height: 100%;
+  background-color: deeppink;
+  background-image: url('./img1.jpg');
+  background-repeat: no-repeat;
+}
+
+.hello{
+  color:red;
+  background:url('./img1.jpg')
+}
